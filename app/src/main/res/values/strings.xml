@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Togalu Gombe</string>
+    <string name="live_assist">Live Assist</string>
+    <string name="puppet_gallery">Puppet Gallery</string>
+    <string name="artist_connect">Artist Connect</string>
+    <string name="history_feed">History Feed</string>
+    <string name="welcome_title">Togalu Gombe</string>
+    <string name="welcome_subtitle">Digital Shadow-Theater Companion</string>
+    <string name="select_play">Select a Play</string>
+    <string name="scene">Scene</string>
+    <string name="characters">Characters</string>
+    <string name="swipe_hint">Swipe to navigate scenes</string>
+    <string name="search_puppets">Search puppets…</string>
+    <string name="all">All</string>
+    <string name="hero">Hero</string>
+    <string name="villain">Villain</string>
+    <string name="deity">Deity</string>
+    <string name="support">Support</string>
+    <string name="powers">Powers</string>
+    <string name="symbolism">Symbolism</string>
+    <string name="appears_in">Appears in</string>
+    <string name="book_workshop">Book Workshop</string>
+    <string name="available_workshops">Available Workshops</string>
+    <string name="seats_available">seats available</string>
+    <string name="book_now">Book Now</string>
+    <string name="booking_name">Your Name</string>
+    <string name="booking_email">Email Address</string>
+    <string name="booking_phone">Phone Number</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="booking_success">Booking Confirmed!</string>
+    <string name="all_categories">All Categories</string>
+    <string name="language_toggle">EN / ಕನ್ನಡ</string>
+    <string name="zoom_hint">Pinch to zoom</string>
+    <string name="price_format">₹%1$.0f</string>
+    <string name="explore_art">Explore the Art</string>
+    <string name="discover_desc">Discover the ancient art of Karnataka\'s leather puppetry</string>
+</resources>

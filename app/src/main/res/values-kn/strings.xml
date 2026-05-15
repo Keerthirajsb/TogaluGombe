@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ತೊಗಲು ಗೊಂಬೆ</string>
+    <string name="live_assist">ಲೈವ್ ಅಸಿಸ್ಟ್</string>
+    <string name="puppet_gallery">ಬೊಂಬೆ ಗ್ಯಾಲರಿ</string>
+    <string name="artist_connect">ಕಲಾವಿದ ಸಂಪರ್ಕ</string>
+    <string name="history_feed">ಇತಿಹಾಸ ಫೀಡ್</string>
+    <string name="welcome_title">ತೊಗಲು ಗೊಂಬೆ</string>
+    <string name="welcome_subtitle">ಡಿಜಿಟಲ್ ನೆರಳು-ರಂಗಮಂದಿರ ಸಹಚರ</string>
+    <string name="select_play">ನಾಟಕವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="scene">ದೃಶ್ಯ</string>
+    <string name="characters">ಪಾತ್ರಗಳು</string>
+    <string name="swipe_hint">ದೃಶ್ಯಗಳನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು ಸ್ವೈಪ್ ಮಾಡಿ</string>
+    <string name="search_puppets">ಬೊಂಬೆಗಳನ್ನು ಹುಡುಕಿ…</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="hero">ನಾಯಕ</string>
+    <string name="villain">ಖಳನಾಯಕ</string>
+    <string name="deity">ದೇವತೆ</string>
+    <string name="support">ಸಹಾಯಕ</string>
+    <string name="powers">ಶಕ್ತಿಗಳು</string>
+    <string name="symbolism">ಸಾಂಕೇತಿಕತೆ</string>
+    <string name="appears_in">ಕಾಣಿಸಿಕೊಳ್ಳುವ ನಾಟಕ</string>
+    <string name="book_workshop">ಕಾರ್ಯಾಗಾರ ಬುಕ್ ಮಾಡಿ</string>
+    <string name="available_workshops">ಲಭ್ಯವಿರುವ ಕಾರ್ಯಾಗಾರಗಳು</string>
+    <string name="seats_available">ಸೀಟುಗಳು ಲಭ್ಯ</string>
+    <string name="book_now">ಈಗ ಬುಕ್ ಮಾಡಿ</string>
+    <string name="booking_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="booking_email">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="booking_phone">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="confirm_booking">ಬುಕಿಂಗ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="booking_success">ಬುಕಿಂಗ್ ದೃಢೀಕರಿಸಲಾಗಿದೆ!</string>
+    <string name="all_categories">ಎಲ್ಲಾ ವಿಭಾಗಗಳು</string>
+    <string name="language_toggle">EN / ಕನ್ನಡ</string>
+    <string name="zoom_hint">ಝೂಮ್ ಮಾಡಲು ಪಿಂಚ್ ಮಾಡಿ</string>
+    <string name="price_format">₹%1$.0f</string>
+    <string name="explore_art">ಕಲೆಯನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="discover_desc">ಕರ್ನಾಟಕದ ಪ್ರಾಚೀನ ಚರ್ಮದ ಬೊಂಬೆಯಾಟ ಕಲೆಯನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+</resources>
